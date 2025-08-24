@@ -1,4 +1,4 @@
-# Multivariate Time-Series Anomaly Detection Ensemble
+# Multivariate Time-Series Anomaly Detection
 
 This project implements a robust and modular ensemble pipeline for detecting anomalies in multivariate time-series data, such as sensor readings. It combines the strengths of tree-based, density-based, and sequence-aware models to produce a calibrated abnormality score and identify the most significant contributing features for each detected anomaly.
 
